@@ -51,10 +51,10 @@ I work where security, money and customers meet.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[SMS Spam & Smishing Detector](https://github.com/abuka920/sms-spam-detector)** | Flags spam and phishing texts with 98.7% accuracy. ML model plus a fraud rules layer that catches modern scams like fake Canada Post fees. Explains every red flag. | Python · scikit-learn · Streamlit |
-| **[AI Resume Parser](https://github.com/abuka920/ai-resume-parser)** | Reads PDF, DOCX or TXT resumes. Pulls contact info, skills and experience. Scores fit against a job post and lists the keywords you're missing. | Python · Streamlit · spaCy · scikit-learn |
+| **[SMS Spam & Smishing Detector](https://github.com/abuka920/sms-spam-detector)** · [live demo](https://kalif-spam-detector.streamlit.app) | Flags spam and phishing texts with 98.7% accuracy. ML model plus a fraud rules layer that catches modern scams like fake Canada Post fees. Explains every red flag. | Python · scikit-learn · Streamlit |
+| **[AI Resume Parser](https://github.com/abuka920/ai-resume-parser)** · [live demo](https://kalif-resume-parser.streamlit.app) | Reads PDF, DOCX or TXT resumes. Pulls contact info, skills and experience. Scores fit against a job post and lists the keywords you're missing. | Python · Streamlit · spaCy · scikit-learn |
 | **[AES Encryptor](https://github.com/abuka920/aes-encryptor)** · [live demo](https://abuka920.github.io/aes-encryptor/) | Password-based AES-256-GCM encryption that runs fully in the browser. No server, nothing leaves the page. | JavaScript · Web Crypto API |
-| **[Melon AI](https://github.com/abuka920/melon-ai-writing-assistant)** | Writing assistant that drafts emails, captions and DMs in my own voice. | Python · Streamlit · OpenAI |
+| **[Melon AI](https://github.com/abuka920/melon-ai-writing-assistant)** · [live demo](https://kalif-melon-ai.streamlit.app) | Writing assistant that drafts emails, captions and DMs in my own voice. | Python · Streamlit · OpenAI |
 
 ---
 
