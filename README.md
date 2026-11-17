@@ -52,14 +52,14 @@ I work where security, money and customers meet.
 | Project | What it does | Stack |
 |---|---|---|
 | **[Transaction Fraud Detection](https://github.com/abuka920/transaction-fraud-detection)** · [live demo](https://kalif-fraud-detection.streamlit.app) | Card fraud model on data where only 0.5% is fraud. 80% of alerts are real fraud on a held-out test set. SHAP explains every alert, and analysts confirm or clear them in a review queue. | XGBoost · LightGBM · SHAP · Streamlit |
-| **[AML Money Mule Detector](https://github.com/abuka920/aml-mule-detector)** | Finds money mule rings and structuring (deposits kept just under the $10K FINTRAC reporting limit) using network analysis. Finds 11 of 12 planted rings across test runs. | Python · NetworkX · Streamlit |
+| **[AML Money Mule Detector](https://github.com/abuka920/aml-mule-detector)** · [live demo](https://kalif-aml-detector.streamlit.app) | Finds money mule rings and structuring (deposits kept just under the $10K FINTRAC reporting limit) using network analysis. Finds 11 of 12 planted rings across test runs. | Python · NetworkX · Streamlit |
 | **[SMS Spam & Smishing Detector](https://github.com/abuka920/sms-spam-detector)** · [live demo](https://kalif-spam-detector.streamlit.app) | Flags spam and phishing texts with 98.7% accuracy. ML model plus a fraud rules layer that catches modern scams like fake Canada Post fees. Explains every red flag. | Python · scikit-learn · Streamlit |
 
 ### 🛡️ Security
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[SOC Log Analyzer](https://github.com/abuka920/soc-log-analyzer)** | Reads Linux auth logs and detects brute force, impossible travel and privilege escalation. Every alert mapped to MITRE ATT&CK. | Python · pandas · Streamlit |
+| **[SOC Log Analyzer](https://github.com/abuka920/soc-log-analyzer)** · [live demo](https://kalif-soc-analyzer.streamlit.app) | Reads Linux auth logs and detects brute force, impossible travel and privilege escalation. Every alert mapped to MITRE ATT&CK. | Python · pandas · Streamlit |
 | **[AWS Security Scanner](https://github.com/abuka920/aws-security-scanner)** | Read-only scanner that checks S3, EC2, IAM, RDS and CloudTrail against the CIS benchmark. Tested against a simulated insecure AWS account. | Python · boto3 · moto |
 | **[AES Encryptor](https://github.com/abuka920/aes-encryptor)** · [live demo](https://abuka920.github.io/aes-encryptor/) | Password-based AES-256-GCM encryption that runs fully in the browser. No server, nothing leaves the page. | JavaScript · Web Crypto API |
 
