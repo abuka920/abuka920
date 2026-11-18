@@ -4,7 +4,7 @@
 
 **Hamilton, Ontario 🇨🇦 · Cybersecurity analytics · Fraud investigation · Python builder**
 
-<a href="https://linkedin.com/in/kalifabu"><img src="https://img.shields.io/badge/LinkedIn-kalifabu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kalif-abu-262430264"><img src="https://img.shields.io/badge/LinkedIn-Kalif%20Abu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/abuka920?tab=repositories"><img src="https://img.shields.io/badge/Projects-See%20all-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
